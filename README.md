@@ -19,3 +19,4 @@ This repository contains various UEFI firmwares extracted using https://github.c
 | QTI 7c CLS           | Rennell                  |
 | QTI 7c Gen3 CLS      | Kodiak                   |
 | QTI SDM845 WP        | Hoya                     |
+| Asus Nova Go	       | Cobalt_NovaGo            |
